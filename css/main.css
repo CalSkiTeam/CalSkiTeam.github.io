@@ -41,13 +41,11 @@ ul.posts {
 
 .slides {
     padding: 0;
-    width: 913.5px;
-    height: 630px;
+    width: 609px;
+    height: 420px;
     display: block;
     margin: 0 auto;
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .slides * {
@@ -66,8 +64,8 @@ ul.posts {
 .slide {
     top: 0;
     opacity: 0;
-    width: 913.5px;
-    height: 630px;
+    width: 609px;
+    height: 420px;
     display: block;
     position: absolute;
 
