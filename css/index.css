@@ -77,7 +77,7 @@ ul.posts {
 
 .container {
     margin-left: 200px auto;
-    position:relative;
+    position:fixed;
 }
 
 .slides {
