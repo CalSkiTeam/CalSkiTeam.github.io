@@ -79,8 +79,7 @@ ul.posts {
 }
 
 .container {
-    margin-left: 200px auto;
-    position:absolute;
+    position:relative;
 }
 
 .blurb {
