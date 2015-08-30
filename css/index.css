@@ -13,7 +13,7 @@ nav {
     width:130px;
     float:left;
     padding:15px;
-    position:fixed;
+    position:relative;
 }
 section {
     width:350px;
