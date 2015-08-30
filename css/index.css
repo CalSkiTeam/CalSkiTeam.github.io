@@ -79,11 +79,7 @@ ul.posts {
 }
 
 .container {
-    position:relative;
-}
-
-.blurb {
-    margin-left 250px auto
+    margin-left: 200px auto;
     position:absolute;
 }
 
