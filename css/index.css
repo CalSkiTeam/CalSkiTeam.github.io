@@ -18,10 +18,9 @@ nav {
     position:absolute;
 }
 section {
-    width:350px;
+    width:80%;
     float:left;
     padding:10px;
-    position:absolute;
 }
 footer {
     background-color:black;
