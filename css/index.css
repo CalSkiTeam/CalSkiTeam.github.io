@@ -84,7 +84,7 @@ ul.posts {
 
 .blurb {
     margin-left 250px auto
-    position:relative;
+    position:absolute;
 }
 
 .slides {
