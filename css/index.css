@@ -80,6 +80,11 @@ ul.posts {
 
 .container {
     margin-left: 200px auto;
+    position:absolute;
+}
+
+.blurb {
+    margin-left 250px auto
     position:relative;
 }
 
