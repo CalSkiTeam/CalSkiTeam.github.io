@@ -52,10 +52,17 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    font-size: 2.5em;
+    padding: 0px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h2 {
     font-size: 2em;
     padding: 0px;
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
+
 p {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 1em;
