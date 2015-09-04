@@ -1,6 +1,7 @@
 header {
     background-color:black;
     color:white;
+    opacity:0.3;
     text-align:center;
     padding:5px;
 }
