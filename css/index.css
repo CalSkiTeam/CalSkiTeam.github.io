@@ -27,7 +27,7 @@ nav {
 }
 
 section {
-    width:500px;
+    width:600px;
     float:left;
     padding:50px;
 }
@@ -65,7 +65,7 @@ nav ul{
     padding: 20px;
     list-style: none;
     font-weight: bold;
-    background-color:white;
+    /*background-color:white;*/
 }
 
 nav ul li {
