@@ -16,13 +16,14 @@ nav {
     padding:15px;
 }
 */
+
 header {
+    padding:0px;
+}
+nav {
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
     clear:both;
-}
-
-nav {
-    /*float:right;*/
+    background-color:white;
 }
 
 section {
