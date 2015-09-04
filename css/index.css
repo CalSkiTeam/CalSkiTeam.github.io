@@ -47,11 +47,11 @@ body {
     width: 100%;
 }
 
-.logo {
+#logo {
     float:left;
 }
 
-.menu {
+#menu {
     float:right;
 }
 
