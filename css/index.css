@@ -1,11 +1,11 @@
-header {
+/*header {
     background-color:black;
     color:white;
     opacity:0.8;
     text-align:center;
     padding:5px;
 }
-/*
+
 nav {
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
     line-height:50px;
@@ -16,9 +16,13 @@ nav {
     padding:15px;
 }
 */
-nav {
+header {
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
     clear:both;
+}
+
+nav {
+    float:right;
 }
 
 section {
@@ -26,6 +30,7 @@ section {
     float:left;
     padding:20px;
 }
+
 aside {
     width:300px;
     float:left;
@@ -46,8 +51,6 @@ body {
     margin: 0px auto;
     width: 100%;
 }
-
-
 
 footer ul {
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
