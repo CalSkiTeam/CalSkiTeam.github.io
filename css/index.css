@@ -3,10 +3,8 @@ header {
     color:white;
     text-align:center;
     padding:20px;
-    position:relative;
 }
 nav {
-    z-index: 10;
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
     line-height:50px;
     background-color:#eeeeee;
@@ -14,7 +12,6 @@ nav {
     width:130px;
     float:left;
     padding:15px;
-    position:absolute;
 }
 section {
     width:400px;
@@ -33,7 +30,6 @@ footer {
 body {
     margin: 40px auto;
     width: 80%;
-    position:relative;
 }
 
 
