@@ -14,16 +14,22 @@ nav {
     padding:15px;
 }
 section {
-    width:400px;
+    width:500px;
     float:left;
     padding:20px;
 }
+aside {
+    width:200px;
+    float:left;
+    padding:15px;
+}
+
 footer {
-    background-color:black;
-    color:white;
+    background-color:white;
+    color:black;
     clear:both;
     text-align:center;
-    padding:5px;
+    padding:0px;
 }
 
 
