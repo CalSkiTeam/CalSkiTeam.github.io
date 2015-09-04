@@ -107,6 +107,8 @@ p {
 }
 footer {
     font-size: .8em;
+    bottom:0;
+    postion:relative;
 }
 
 ul.posts { 
