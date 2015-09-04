@@ -5,6 +5,7 @@ header {
     text-align:center;
     padding:5px;
 }
+/*
 nav {
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
     line-height:50px;
@@ -14,6 +15,12 @@ nav {
     float:left;
     padding:15px;
 }
+*/
+nav {
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    float:left;
+}
+
 section {
     width:500px;
     float:left;
@@ -42,12 +49,21 @@ body {
 
 
 
-nav ul, footer ul {
+footer ul {
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
     padding: 10px;
     list-style: none;
     font-weight: bold;
 }
+
+nav ul{
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    padding: 10px;
+    list-style: none;
+    font-weight: bold;
+    background-color:white;
+}
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
