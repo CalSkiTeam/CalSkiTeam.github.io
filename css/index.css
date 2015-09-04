@@ -69,9 +69,17 @@ nav ul{
 }
 
 nav ul li {
-    display: inline;
+    display: inline-block;
     margin-right: 20px;
     float:right;
+    cursor: pointer;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+}    
+    
 }
 
 nav ul li:hover {
