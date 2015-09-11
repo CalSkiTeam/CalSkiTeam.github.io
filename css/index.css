@@ -81,11 +81,12 @@ nav ul li {
 }    
     
 }
-
+/*
 nav ul li:hover {
   background: #555;
   color: #fff;
 }
+*/
 nav ul li ul {
   padding: 0;
   position: absolute;
